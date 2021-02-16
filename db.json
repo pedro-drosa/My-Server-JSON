@@ -5,34 +5,38 @@
       "title": "React Native",
       "url": "http://github.com",
       "techs": [
-        "nodeJS"
+        "NodeJS",
+        "React Native"
       ],
-      "likes": 5
+      "likes": 1
     },
     {
       "id": "a43f5320-b86a-4d4a-a6a2-458559bef003",
       "title": "React JS",
       "url": "http://github.com",
       "techs": [
-        "nodeJS"
+        "NodeJS",
+        "ReactJS"
       ],
-      "likes": 0
+      "likes": 2
     },
     {
       "id": "b66422cb-dbf6-481e-a06a-114ca305f6ca",
       "title": "Node Js",
       "url": "http://github.com",
       "techs": [
-        "nodeJS"
+        "NodeJS",
+        "TypeScript"
       ],
-      "likes": 0
+      "likes": 3
     },
     {
       "id": "d1d7f3b7-f8c1-47f4-9a4e-26af7479ccba",
       "title": "PHP 8",
       "url": "http://github.com",
       "techs": [
-        "nodeJS"
+        "Laravel",
+        "Codeigniter"
       ],
       "likes": 0
     }
